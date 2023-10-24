@@ -288,19 +288,19 @@ class: nord-dark
 # .nord4[eDNA]
 
 
----
-name: Use the sponge
+<!-- --- -->
+<!-- name: Use the sponge -->
 
-class: nord-dark
+<!-- class: nord-dark -->
 
-<video width=1200 height=800 controls>
+<!-- <video width=1200 height=800 controls> -->
 
-<source src="images/transition1.mp4" type="video/mp4">
-</video>
+<!-- <source src="images/transition1.mp4" type="video/mp4"> -->
+<!-- </video> -->
 
 ---
 name: Can we use nsDNA
-background-image:  linear-gradient(150deg,rgba(46, 52, 64, 10%),rgba(46, 52, 64, 20%),rgba(46, 52, 64, 20%),rgba(46, 52, 64, 10%)), url(images/sponge_icon.png)
+background-image:  linear-gradient(150deg,rgba(46, 52, 64, 10%),rgba(46, 52, 64, 20%),rgba(46, 52, 64, 20%),rgba(46, 52, 64, 10%)), url(images/Sponge_icon.png)
 background-position: 10%
 background-size: 300px 300px
 class: nord-dark
@@ -738,9 +738,7 @@ name: results
 .content-box-yellow[
 .huge[.nord1[.bold[
  Ana Riesgo & MNCN group
-
  </br>
- 
  Belen Arias
  </br>
  Stefano Mariani and team
